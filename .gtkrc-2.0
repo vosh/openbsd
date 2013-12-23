@@ -1,0 +1,7 @@
+include "/home/vosh/.themes/darksasmysoul/gtk-2.0/gtkrc"
+
+#sets the font
+ gtk-font-name = "terminus 9" 
+
+#sets the icon theme
+ gtk-icon-theme-name = "ACYL" 
